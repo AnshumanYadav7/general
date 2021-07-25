@@ -1,0 +1,15 @@
+body {
+	background: darkcyan;
+	font-family: Coolvetica;
+	color: white;
+	letter-spacing: 1px;
+}
+
+ul {
+	font-size: 24px;
+	color: white;
+}
+
+a {
+	color: #000;
+}
